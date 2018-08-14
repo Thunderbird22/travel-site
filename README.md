@@ -1,3 +1,3 @@
 # travel-site
 
-This repo is only for learning purposes
+This repo with travel-site is only for learning purposes
